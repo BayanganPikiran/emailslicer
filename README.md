@@ -1,0 +1,1 @@
+The email slicer is a handy program to get the username and domain name from an email address
